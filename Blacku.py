@@ -67,14 +67,14 @@ logo ="""
 \x1b[1;92m╚██████╔╝███████║██║  ██║
 \x1b[1;91m ╚═════╝ ╚══════╝╚═╝  ╚═╝
                                                             
-\x1b[1;97m▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅๑۩∆(USA)∆۩๑▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅
+\x1b[1;91m▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅๑۩∆(USA)∆۩๑▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅
 \x1b[1;94m➣Author → BLACK TIGER-ERROR404
 \x1b[1;94m➣Github → https://github.com/BlackTiger-Error404
 \x1b[1;94m➣Youtube→ Time4 You
 \x1b[1;94m➣Note: Having Problem? Contact Me On Whatsapp  
 \x1b[1;94m➣☏ →03037335114
 \x1b[1;94m➣Disclamiar : This Is For Educational Purpose Only.
-\x1b[1;97m▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅๑۩∆(USA)∆۩๑▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅"""       
+\x1b[1;91m▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅๑۩∆(USA)∆۩๑▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅▅"""       
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
